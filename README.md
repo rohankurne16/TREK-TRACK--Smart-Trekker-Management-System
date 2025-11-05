@@ -1,0 +1,2 @@
+# TREK TRACK -Smart Trekker Management System
+TrekTrack is a smart & efficient management system designed to handle trekker registration, authentication, and record management. The system allows trekkers to register, log in, update information, reset passwords, and even delete their accounts. The admin panel provides access to view all registered trekkers, manage records, and export data securely.
